@@ -1,0 +1,25 @@
+{
+  "name": "Fısıltı",
+  "short_name": "Fısıltı",
+  "description": "Fal ve tarot uygulaması",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#2e1065",
+  "background_color": "#180e29",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
